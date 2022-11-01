@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667260239 source:c:\users\aluno\documents\arvorebinaria2\arvorebinaria\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
